@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 int main(void) {
 	int digit,n,sum = 0;
